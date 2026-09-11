@@ -123,17 +123,17 @@ def bs(text):
 
 # ====================== CONFIG ======================
 # ─── EDIT THESE BEFORE RUNNING ───
-API_ID    = int(os.getenv("API_ID") or 0)                 # ← your API ID
-API_HASH  = os.getenv("API_HASH", "")                     # ← your API hash
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")                    # ← your bot token
+API_ID    = int(os.getenv("33657928") or 0)                 # ← your API ID
+API_HASH  = os.getenv("a61fde61442113b9a65c699f7020d59a", "")                     # ← your API hash
+BOT_TOKEN = os.getenv("8881611682:AAGUaw5qi17Qy3cLGtJwIe6qXoK17WcW_lU", "")                    # ← your bot token
 ADMIN_ID  = [8871910561]                                  # ← your telegram id(s)
 
-HIT_CHANNEL_ID         = -1000000000000                   # ← main hits channel
-CHARGED_ONLY_CHANNEL_ID= -1000000000000                   # ← full-details channel
-GROUP_CHAT_ID          = -1000000000000                   # ← group for /fb
+HIT_CHANNEL_ID         = -1004381920430                   # ← main hits channel
+CHARGED_ONLY_CHANNEL_ID= -1003965573664                   # ← full-details channel
+GROUP_CHAT_ID          = -1003902938287                   # ← group for /fb
 
-GROUP_INVITE_LINK   = "https://t.me/+YOUR_GROUP_LINK"
-CHANNEL_INVITE_LINK = "https://t.me/+YOUR_CHANNEL_LINK"
+GROUP_INVITE_LINK   = "https://t.me/+_0kBIVQujUEyOTc1"
+CHANNEL_INVITE_LINK = "https://t.me/+3dlEoWK-vGcwMDI9"
 
 BOT_BRAND    = "NOVA"
 BOT_USERNAME = "@spectrumxchkbot"
@@ -144,7 +144,7 @@ SEP          = "━━━━━━━━━━━━━━━━━"
 PE           = "💎"
 
 # ─── APIs ───
-SHOPIFY_API_URL   = "https://shopify-api-production-90e8.up.railway.app/check"
+SHOPIFY_API_URL   = "https://razorpay-api-production-f49a.up.railway.app/check"
 RAZORPAY_API_URL  = "https://web-production-43fc5.up.railway.app/razorpay/check"
 
 # ─── Limits ───
