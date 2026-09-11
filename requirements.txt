@@ -1,4 +1,4 @@
 telethon
 aiohttp
 aiofiles
-requests
+psutil
