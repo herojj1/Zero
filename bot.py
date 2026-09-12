@@ -73,7 +73,7 @@ def bs(text):
 # ====================== CONFIG ======================
 API_ID    = int(os.getenv("API_ID") or 33657928)
 API_HASH  = os.getenv("API_HASH", "a61fde61442113b9a65c699f7020d59a")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8881611682:AAGUaw5qi17Qy3cLGtJwIe6qXoK17WcW_lU")
 ADMIN_ID  = [8871910561]
 
 HIT_CHANNEL_ID          = -1004381920430
@@ -92,10 +92,7 @@ DEV_LINE     = f"⌬ {bs('Bot By')} <a href='https://t.me/{OWNER_TAG.lstrip('@')
 SEP          = "━━━━━━━━━━━━━━━━━"
 PE           = "💎"
 
-SHOPIFY_API_URL  = os.getenv(
-    "SHOPIFY_API_URL",
-    "https://shopify-api-production-d377.up.railway.app/check"
-)
+SHOPIFY_API_URL  = "https://shopify-api-production-d377.up.railway.app/check"
 RAZORPAY_API_URL = "https://web-production-43fc5.up.railway.app/check"
 
 RAZORPAY_ENABLED = False
