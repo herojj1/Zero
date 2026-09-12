@@ -92,7 +92,7 @@ SEP          = "━━━━━━━━━━━━━━━━━"
 PE           = "💎"
 
 # ✅ UPDATED — both point to Railway API (Razorpay temporarily disabled)
-SHOPIFY_API_URL  = "https://web-production-43fc5.up.railway.app/check"
+SHOPIFY_API_URL  = "https://razorpay-api-knpi.onrender.com/check"
 RAZORPAY_API_URL = "https://web-production-43fc5.up.railway.app/check"   # unused (rz disabled)
 
 RAZORPAY_ENABLED = False   # ← set True only if you have a real Razorpay API
