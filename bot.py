@@ -133,7 +133,7 @@ DEV_LINE     = f"⌬ {bs('Bot By')} <a href='https://t.me/{OWNER_TAG.lstrip('@')
 SEP          = "━━━━━━━━━━━━━━━━━"
 PE           = "💎"
 
-SHOPIFY_API_URL  = "https://shopify-api-production-90e8.up.railway.app/check"
+SHOPIFY_API_URL  = "https://razorpay-api-production-f49a.up.railway.app/check"
 RAZORPAY_API_URL = "https://web-production-43fc5.up.railway.app/razorpay/check"
 
 FREE_DAILY_LIMIT     = 15
