@@ -1,11 +1,3 @@
-# =============================================================================
-# NOVA Bot — Complete Single-File Source (v6.2.0)
-# =============================================================================
-# v6.2.0 changes vs v6.1.0:
-#   - Per-user worker cap raised to 70 (Shopify single + mass + harvesters)
-#   - Both harvesters (/rzscan, /rzharvest, /rzstat, /shscan, /shharvest, /shstat)
-#   - Harvester import guards + scan-summary files
-# =============================================================================
 
 import os
 import re
